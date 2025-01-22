@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am Bulk, a final year student in **Central Board of Secondary Education**(CBSE), India.
+I am Bulk, a final year student in India.
 
 - 🔭 I’m currently working on nothing much, really.
 - 🌱 I’m currently learning Python.
