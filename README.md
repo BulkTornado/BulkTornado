@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**BulkTornado/BulkTornado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Bulk, a final year student in **Central Board of Secondary Education**(CBSE), India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on nothing much, really.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on nothing :D
+- 🤔 I’m looking for help with Python, I guess.
+- 💬 Ask me about anything from Python to studies.
+- 📫 How to reach me: I am unreachable, baby :p
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am short 5'5'' pookie >.<
+
