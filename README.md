@@ -1,14 +1,7 @@
 ## Hi there 👋
+Welcome to my Github profile.
 
-
-I am Bulk, a final year student in India.
-
-- 🔭 I’m currently working on nothing much, really.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on nothing :D
-- 🤔 I’m looking for help with Python, I guess.
-- 💬 Ask me about anything from Python to studies.
-- 📫 How to reach me: I am unreachable, baby :p
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am short 5'5'' pookie >.<
-
+- You will see all of my full fledged projects here.
+- Some are short and simple, some are long :p
+- I mainly use Python, nothing else(ofc I learnt C++ basics :p).
+- How to reach me: Sorry, no loose strings I guess >.<
